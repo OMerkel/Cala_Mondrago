@@ -3,7 +3,7 @@ Cala Mondrago
 
 Hosts board game Mondrago for HTML5/Javascript platform.
 
-The project offers the electronical version of the Mondrago board game as originally created and published by Adrian Schacker in 1992.
+The project offers the electronical version of the Mondrago board game as originally created and published by Adrian Schacker in 1992. This will be a complete rewrite from scratch just using my own graphics theme and Adrian's logo, name, and logo color scheme from the Android version.
 
 Thank you very much to Adrian kindly supporting our open source project by allowing us to use the original logo, name, and color scheme.
 
