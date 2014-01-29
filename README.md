@@ -3,13 +3,14 @@ Cala Mondrago
 
 Hosts board game Mondrago for HTML5/Javascript platform.
 
-The project offers the electronical version of the Mondrago board game as originally created and published by Adrian Schacker in 1992. This will be a complete rewrite from scratch just using my own graphics theme and Adrian's logo, name, and logo color scheme from the Android version.
+The project offers the electronical version of the Mondrago board game as originally created and published by Adrian Schacker in 1992. This will be a complete rewrite from scratch just using my own graphics theme as published at [BoardGameGeek](http://boardgamegeek.com/boardgame/111396/mondrago) and Adrian's logo, name, and logo color scheme.
 
 Thank you very much to Adrian kindly supporting our open source project by allowing us to use the original logo, name, and color scheme.
 
 See the Mondrago community website for the original rules in text format translated into various languages.
 
 * [Cala Mondrago for HTML5/Javascript Web Site](https://github.com/OMerkel/Cala_Mondrago)
+* [Mondrago at BoardGameGeek](http://boardgamegeek.com/boardgame/111396/mondrago)
 * [Cala Mondrago for Android Web Site](http://sourceforge.net/p/calamondrago)
 * [Mondrago community website](http://mondrago.net/)
 
