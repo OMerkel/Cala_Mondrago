@@ -33,8 +33,8 @@ License
     * Initial original rules text of the Mondrago game, and
     * Original color scheme and logo design of the game
 
-    strictly belong to Adrian Schacker, adrian(dot)schacker(at)t-online(dot)de.
-    These copyrights are not necessarily touched by the license above.
+    The later strictly belong to Adrian Schacker, adrian(dot)schacker(at)t-online(dot)de.
+    Adrian's copyrights are not necessarily touched by the license above.
 
 Scope
 -----
