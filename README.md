@@ -22,6 +22,8 @@ Board Games, Games/Entertainment, Mobile, Abstract Game, Perfect-Information, 2-
 License
 -------
 
+Logos and trademarks belong to their respective owners.
+
 * Source code including HMTL, Javascript, CSS is under MIT License
 * If not otherwise stated all game graphics (indepedend of its format) are licensed under
 
