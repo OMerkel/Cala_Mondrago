@@ -1,0 +1,15 @@
+{
+  "version": "0.1",
+  "name": "Mondrago",
+  "description": "Mondrago - a game for everyone",
+  "launch_path": "/index.html",
+  "icons": {
+    "48": "/img/icons/mondrago-48.png",
+    "128": "/img/icons/mondrago-128.png"
+  },
+  "developer": {
+    "name": "Oliver Merkel",
+    "url": "https://github.com/OMerkel/Cala_Mondrago"
+  },
+  "installs_allowed_from": ["*"]
+}
