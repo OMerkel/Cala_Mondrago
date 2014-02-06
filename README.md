@@ -1,7 +1,7 @@
 Cala Mondrago
 =============
 
-__Keywords, Categories__ Board Games, Games/Entertainment, Mobile, Abstract Game, Perfect-Information, 2-player Strategy Game
+__Keywords, Categories__ _Board Games, Games/Entertainment, Mobile, Abstract Game, Perfect-Information, 2-player Strategy Game_
 
 _Start an online_ __Mondrago__ _session on_ http://omerkel.github.io/Cala_Mondrago/html5/src/
 
