@@ -1,6 +1,8 @@
 Cala Mondrago
 =============
 
+http://omerkel.github.io/Cala_Mondrago/html5/src/
+
 This is the two player abstract perfect-information strategy board game Mondrago for HTML5/Javascript/CSS platform.
 
 The project offers the electronical version of the Mondrago board game as originally created and published by Adrian Schacker in 1992. This is a complete rewrite from scratch. It is just reusing my own graphics theme as published at [BoardGameGeek](http://boardgamegeek.com/boardgame/111396/mondrago) and Adrian Schacker's logo, name, and logo color scheme.
