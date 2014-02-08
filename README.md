@@ -1,7 +1,8 @@
 Cala Mondrago
 =============
 
-_Start an online_ __Mondrago__ _session on_ http://omerkel.github.io/Cala_Mondrago/html5/src/
+* _Start an online_ __Mondrago__ _session on_ http://omerkel.github.io/Cala_Mondrago/html5/src/
+* [Hints on installation and known issues](https://github.com/OMerkel/Cala_Mondrago/wiki)
 
 __Keywords, Categories__ _Board Games, Games/Entertainment, Mobile, Abstract Game, Perfect-Information, 2-player Strategy Game_
 
