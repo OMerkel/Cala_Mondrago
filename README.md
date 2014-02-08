@@ -1,9 +1,9 @@
 Cala Mondrago
 =============
 
-__Keywords, Categories__ _Board Games, Games/Entertainment, Mobile, Abstract Game, Perfect-Information, 2-player Strategy Game_
-
 _Start an online_ __Mondrago__ _session on_ http://omerkel.github.io/Cala_Mondrago/html5/src/
+
+__Keywords, Categories__ _Board Games, Games/Entertainment, Mobile, Abstract Game, Perfect-Information, 2-player Strategy Game_
 
 This is the two player abstract perfect-information strategy board game Mondrago for HTML5/Javascript/CSS platform.
 
