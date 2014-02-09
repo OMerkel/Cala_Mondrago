@@ -3,7 +3,7 @@
   "name": "Mondrago",
   "description": "Mondrago - a game for everyone",
   "launch_path": "/Cala_Mondrago/html5/src/index.html",
-  "appcache_path": "/Cala_Mondrago/html5/src/offline.appcache",
+  "appcache_path": "/Cala_Mondrago/html5/src/manifest.appcache",
   "icons": {
     "16": "/Cala_Mondrago/html5/src/img/icons/logo-shadow_light-16.png",
     "32": "/Cala_Mondrago/html5/src/img/icons/logo-shadow_light-32.png",
