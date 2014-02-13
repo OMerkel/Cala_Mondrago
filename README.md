@@ -1,4 +1,6 @@
-Cala Mondrago
+
+
+ ![Mondrago Logo](html5/res/logo-256-shadow_dark.png) Cala Mondrago
 =============
 
 * _Start an online_ __Mondrago__ _session on_ http://omerkel.github.io/Cala_Mondrago/html5/src/
