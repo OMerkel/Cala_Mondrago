@@ -1,4 +1,3 @@
-
  ![Mondrago Logo](html5/res/logo-256-shadow_dark.png) Cala Mondrago
 =============
 
@@ -58,7 +57,7 @@ Mondrago Community
 
 In case of questions or if you simply want to be updated on further research and development or community activities on Mondrago, please visit the [Mondrago community website](http://mondrago.net/), too.
 
-| <img height="480" ondragstart="return false;" alt="Mondrago on a FxOS Geeksphone Peak, own work, Oliver Merkel, Creative Commons License, This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License." src="html5/res/mondrago_on_fxos.jpg" /> |
+| <img height="480" ondragstart="return false;" alt="Mondrago on an FxOS Geeksphone Peak, own work, Oliver Merkel, Creative Commons License, This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License." src="html5/res/mondrago_on_fxos.jpg" /> |
 | --- |
-| Mondrago on a FxOS Geeksphone Peak, own work, Oliver Merkel,<br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. |
+| Mondrago on an FxOS Geeksphone Peak, own work, Oliver Merkel,<br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. |
 
