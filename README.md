@@ -24,6 +24,8 @@ License
 
 Logos and trademarks belong to their respective owners.
 
+_Copyright (c) 2014 Oliver Merkel_
+
 * Source code including HMTL, Javascript, CSS is under MIT License
 * If not otherwise stated all game graphics (indepedend of its format) are licensed under
 
