@@ -15,6 +15,7 @@ Thank you very much to Adrian kindly supporting our open source project by allow
 See the Mondrago community website for the original rules in text format translated into various languages.
 
 * [Cala Mondrago for HTML5/Javascript Web Site](https://github.com/OMerkel/Cala_Mondrago)
+* [Mondrago at Firefox Marketplace](https://marketplace.firefox.com/app/mondrago/)
 * [Mondrago at BoardGameGeek](http://boardgamegeek.com/boardgame/111396/mondrago)
 * [Mondrago at VideoGameGeek](http://videogamegeek.com/videogame/137897/mondrago)
 * [Cala Mondrago for Android Web Site](http://sourceforge.net/p/calamondrago)
