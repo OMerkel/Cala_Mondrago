@@ -44,25 +44,18 @@ In case of questions or if you simply want to be updated on further research and
 | --- | --- |
 | Mondrago on an FxOS Geeksphone Peak, own work, Oliver Merkel,<br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. | left: Mondrago HTML5 version, 2014, on Geeksphone Revolution, FirefoxOS. right: Mondrago Deluxe Edition, 1992, U-Boot-Verlag, Berlin. Mind if running out of batteries the 22 years older version will still work, Oliver Merkel,<br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. |
 
-License
--------
+Contributors / Authors
+----------------------
 
-Logos and trademarks belong to their respective owners.
+<table>
+  <tr>
+    <td><img height="265" ondragstart="return false;" alt="Oliver Merkel, Creative Commons License, This image is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License." src="html5/src/img/oliver_avalanche_field.jpg" /></td>
+    <td><p>Oliver Merkel,<br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This image is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.    
+    </p>
+    </td>
+  </tr>
+</table>
 
-_Copyright (c) 2014 Oliver Merkel_
-
-* Source code including HMTL, Javascript, CSS is under MIT License
-* If not otherwise stated all game graphics (indepedend of its format) are licensed under
-
-    <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Images are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-
-* except Copyrights of the
-
-    * Mondrago game itself (NOT touching this implementation as a realization for computer usage),
-    * Initial original rules text of the Mondrago game, and
-    * Original color scheme and logo design of the game
-
-    The later strictly belong to Adrian Schacker, adrian(dot)schacker(at)t-online(dot)de.
-    Adrian's copyrights are not necessarily touched by the license above.
+_All logos, brands, and trademarks mentioned belong to their respective owners._
 
 Thank you very much to Adrian kindly supporting our open source project by allowing us to use the original logo, name, and logo color scheme.
