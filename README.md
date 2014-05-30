@@ -52,7 +52,7 @@ Logos and trademarks belong to their respective owners.
 _Copyright (c) 2014 Oliver Merkel_
 
 * Source code including HMTL, Javascript, CSS is under MIT License
-* If not otherwise stated all game graphics (indepedend of its format) are licensed under
+* If not otherwise stated all game graphics (independent of its format) are licensed under
 
     <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Images are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
