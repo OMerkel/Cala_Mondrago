@@ -67,6 +67,21 @@ Hmi.prototype.update = function() {
   if (Pawns.chosen) {
     Hmi.PAWNS.updateLayoutFreeFields();
   }
+  var minSize = 32;
+  var size = 0.05 * availableWidth < minSize ? minSize : 0.05 * availableWidth;
+  $('#customMenu').css({
+    'width': size+'px', 'height': size+'px',
+    'background-size': size+'px ' + size+'px',
+  });
+  size = 0.05 * availableWidth < minSize ? minSize : 0.05 * availableWidth;
+  $('#customBackRules').css({
+    'width': size+'px', 'height': size+'px',
+    'background-size': size+'px ' + size+'px',
+  });
+  $('#customBackAbout').css({
+    'width': size+'px', 'height': size+'px',
+    'background-size': size+'px ' + size+'px',
+  });
 };
 
 Hmi.prototype.updateGamePage = function(size) {

@@ -1,9 +1,9 @@
 {
-  "version": "0.1",
+  "version": "0.2",
   "name": "Mondrago",
   "description": "Mondrago - a game for everyone",
   "launch_path": "/Cala_Mondrago/html5/src/index.html",
-  "appcache_path": "/Cala_Mondrago/html5/src/manifest.appcache",
+  "appcache_path": "/Cala_Mondrago/html5/src/offline.appcache",
   "icons": {
     "16": "/Cala_Mondrago/html5/src/img/icons/logo-shadow_light-16.png",
     "32": "/Cala_Mondrago/html5/src/img/icons/logo-shadow_light-32.png",
@@ -13,8 +13,7 @@
     "90": "/Cala_Mondrago/html5/src/img/icons/logo-shadow_light-90.png",
     "120": "/Cala_Mondrago/html5/src/img/icons/logo-shadow_light-120.png",
     "128": "/Cala_Mondrago/html5/src/img/icons/logo-shadow_light-128.png",
-    "256": "/Cala_Mondrago/html5/src/img/icons/logo-shadow_light-256.png",
-    "512": "/Cala_Mondrago/html5/src/img/icons/logo-shadow_light-512.png"
+    "256": "/Cala_Mondrago/html5/src/img/icons/logo-shadow_light-256.png"
   },
   "developer": {
     "name": "Oliver Merkel",

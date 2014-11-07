@@ -1,10 +1,12 @@
 CACHE MANIFEST
-# v0.1
+# v0.2
 css/index.css
 img/icons/about_title.png
 img/icons/cc_by_nc_nd_compact.png
 img/icons/cc_by_nc_sa.png
 img/icons/favicon.ico
+img/icons/icon-bars.svg
+img/icons/icon-delete.svg
 img/icons/logo-shadow_light-120.png
 img/icons/logo-shadow_light-128.png
 img/icons/logo-shadow_light-16.png
@@ -31,14 +33,14 @@ js/engine.js
 js/hmi.js
 js/pawn.js
 js/pawns.js
-thirdparty/jquery.mobile-1.4.0/demos/favicon.ico
-thirdparty/jquery.mobile-1.4.0/images/ajax-loader.gif
-thirdparty/jquery.mobile-1.4.0/jquery.mobile-1.4.0.css
-thirdparty/jquery.mobile-1.4.0/jquery.mobile-1.4.0.js
-thirdparty/jquery.mobile-1.4.0/MIT-LICENSE.txt
-thirdparty/jquery-1.11.0.js
+thirdparty/jquery.mobile-1.4.5/demos/favicon.ico
+thirdparty/jquery.mobile-1.4.5/images/ajax-loader.gif
+thirdparty/jquery.mobile-1.4.5/jquery.mobile-1.4.5.css
+thirdparty/jquery.mobile-1.4.5/jquery.mobile-1.4.5.js
+thirdparty/jquery.mobile-1.4.5/LICENSE.txt
+thirdparty/jquery-1.11.1.js
 thirdparty/jquery-favicon.ico
-thirdparty/MIT-LICENSE.txt
+thirdparty/LICENSE.txt
 AUTHORS
 index.html
 LICENSE

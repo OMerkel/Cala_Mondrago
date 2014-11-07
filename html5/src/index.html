@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html manifest="manifest.appcache">
+<html manifest="offline.appcache">
 <head profile="http://dublincore.org/documents/dcq-html/">
   <link rel="icon" href="img/icons/favicon.ico" type="image/x-icon" />
   <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
@@ -19,7 +19,7 @@ All rights reserved.
 
 Logos and trademarks belong to their respective owners.
 
-Source code including HMTL, Javascript, CSS is under MIT License
+All source code also including code parts written in HMTL, Javascript, CSS is under MIT License.
 
 The MIT License (MIT)
 
@@ -61,10 +61,10 @@ Adrian s copyrights are not necessarily touched by the license above.
   <link rel="apple-touch-icon" href="img/icons/logo-shadow_light-128.png" />
   <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no'
     name='viewport' />
-  <link rel='stylesheet' type='text/css' href='thirdparty/jquery.mobile-1.4.0/jquery.mobile-1.4.0.css' />
+  <link rel='stylesheet' type='text/css' href='thirdparty/jquery.mobile-1.4.5/jquery.mobile-1.4.5.css' />
   <link rel='stylesheet' type='text/css' href='css/index.css' />
-  <script src='thirdparty/jquery-1.11.0.js' type='text/javascript'></script>
-  <script src='thirdparty/jquery.mobile-1.4.0/jquery.mobile-1.4.0.js' type='text/javascript'></script>
+  <script src='thirdparty/jquery-1.11.1.js' type='text/javascript'></script>
+  <script src='thirdparty/jquery.mobile-1.4.5/jquery.mobile-1.4.5.js' type='text/javascript'></script>
   <script src='js/common.js' type='text/javascript'></script>
   <script src='js/pawn.js' type='text/javascript'></script>
   <script src='js/pawns.js' type='text/javascript' defer></script>
@@ -74,7 +74,8 @@ Adrian s copyrights are not necessarily touched by the license above.
 <div data-role='page' data-theme='b' id='game-page' class='mybackground'>
   <div data-role='header' data-position='fixed'>
     <center>Mondrago</center>
-    <a href='#left-panel' data-icon='bars' data-iconpos='notext'>Navigation</a>
+    <a href='#left-panel' id='customMenu' class='customMenu'
+      data-icon='custom' data-iconpos='notext'>Menu</a>
   </div><!-- /header -->
   <div role='main' class='ui-content'>
     <div id='game-region'>
@@ -146,18 +147,18 @@ Adrian s copyrights are not necessarily touched by the license above.
       data-icon='false' data-global-nav='demos' class='jqm-list'>
       <li data-icon='back' data-rel='close'><a href='#'>Back</a></li>
       <li data-role='list-divider'>&nbsp;</li>
-      <li data-icon='star' ><a id='new' href='#'>New</a></li>
-      <li data-icon='action' ><a href='#rules-page'
-        data-transition='pop'>Rules</a></li>
-      <li data-icon='info' ><a href='#help-page'
-        data-transition='pop'>About</a></li>
+      <li data-icon='star'><a id='new'>New</a></li>
+      <li data-icon='action'><a href='#rules-page' data-rel='page'
+        data-transition='pop'>Rules&#8230;</a></li>
+      <li data-icon='info'><a href='#about-page' data-rel='page'
+        data-transition='pop'>About&#8230;</a></li>
     </ul>
   </div><!-- /panel -->
 </div>
 <div data-role='page' data-theme='b' id='rules-page'>
   <div data-role='header'>
-    <a href='#' data-rel='back'
-      class='ui-btn ui-icon-delete ui-btn-icon-right ui-btn-icon-notext ui-corner-all'>Back</a>
+    <a href='#' data-rel='back' id='customBackRules'
+      class='customBack ui-btn ui-icon-custom ui-btn-icon-right ui-btn-icon-notext ui-corner-all'>Back</a>
     <h4>Rules</h4>
   </div><!-- /header -->
   <div role='main' class='ui-content' style='max-width: 800px;'>
@@ -165,6 +166,7 @@ Adrian s copyrights are not necessarily touched by the license above.
         <img src='img/initial.png' />
         <figcaption>Initial board position.</figcaption>
       </figure>
+      <br />
       <ul>
         <li>Players alternate turns on each move.</li>
         <li>Each turn consists in moving an own pawn to an adjacent
@@ -239,25 +241,26 @@ Adrian s copyrights are not necessarily touched by the license above.
       data-rel='back'>Back</a>
   </div><!-- /content -->
 </div><!-- /page -->
-<div data-role='page' data-theme='b' id='help-page'>
+<div data-role='page' data-theme='b' id='about-page'>
   <div data-role='header'>
-    <a href='#' data-rel='back'
-      class='ui-btn ui-icon-delete ui-btn-icon-right ui-btn-icon-notext ui-corner-all'>Back</a>
+    <a href='#' data-rel='back' id='customBackAbout'
+      class='customBack ui-btn ui-icon-custom ui-btn-icon-right ui-btn-icon-notext ui-corner-all'>Back</a>
     <h4>About</h4>
   </div><!-- /header -->
   <div role='main' class='ui-content'>
+    <br />
     <h3>Legal</h3>
     <figure class='diagram' style='float: right;'>
       <img src='img/oliver_avalanche_field.jpg' />
       <figcaption>Oliver Merkel, cc-by-nc-nd 4.0.</figcaption>
     </figure>
     <p>Copyright (c) 2014<br />
-    @author Oliver Merkel, Merkel(dot)Oliver(at) web(dot)de.<br />
+    <em>@author</em> Oliver Merkel, Merkel(dot) Oliver(at) web(dot) de.<br />
     All rights reserved.<br />
     Logos and trademarks belong to their respective owners.</p>
-    <p>Source code including HMTL, Javascript, CSS is under MIT License.</p>
+    <p>All source code also including code parts written in HMTL, Javascript, CSS is under MIT License.</p>
     <h4>The MIT License (MIT)</h4>
-    <p>Copyright (c) 2014 Oliver Merkel, Merkel(dot)Oliver(at)web(dot)de</p>
+    <p>Copyright (c) 2014 Oliver Merkel, Merkel(dot) Oliver(at) web(dot)de</p>
 
     <p>Permission is hereby granted, free of charge, to any person obtaining a copy of
     this software and associated documentation files (the &quot;Software&quot;), to deal in
@@ -302,8 +305,8 @@ Adrian s copyrights are not necessarily touched by the license above.
     </div><!-- collapsible -->
     <div data-role="collapsible">
       <h4>Third Party Code Licenses</h4>
-      <p>This <b>Mondrago</b> implementation uses unmodified independent code
-      libraries provided by <em>third parties</em>.
+      <p>This <b>Mondrago</b> implementation uses unmodified
+      independent code libraries provided by <em>third parties</em>.
       Since their licenses might vary the corresponding information is
       <em>externally linked</em> below. Thus <em>these external links</em>
       will enable you to reproduce any copyright notice,
@@ -318,7 +321,7 @@ Adrian s copyrights are not necessarily touched by the license above.
       <a href="https://github.com/jquery/jquery-mobile" data-role="button" data-theme="c"
         rel="external" target="_blank" type="text/html"
         title="jQuery Mobile - Repository">
-        <img src="thirdparty/jquery.mobile-1.4.0/demos/favicon.ico" />
+        <img src="thirdparty/jquery.mobile-1.4.5/demos/favicon.ico" />
         jQuery Mobile: MIT</a>
     </div><!-- collapsible -->
     </div><!-- collapsible-set -->
