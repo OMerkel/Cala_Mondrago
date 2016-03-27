@@ -1,4 +1,7 @@
 //
+// Copyright (c) 2016 Oliver Merkel
+// All rights reserved.
+//
 // @author Oliver Merkel, <Merkel(dot)Oliver(at)web(dot)de>
 //
 
