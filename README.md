@@ -52,7 +52,7 @@ Here the light pawns form a winning three by three sized Mondrago.
 </table>
 
 Just two sizes of a Mondrago exist on <em>diagonal</em> justification.
-There are nine smaller <em>diagonal Mondrago</em> squares, too, and a huge one
+There are nine possible smaller <em>diagonal Mondrago</em> squares, too, and a huge one
 as shown here built by the dark pawns this time.
 
 <table>
