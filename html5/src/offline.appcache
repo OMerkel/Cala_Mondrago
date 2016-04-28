@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# v0.2
+# v0.3
 css/index.css
 img/icons/about_title.png
 img/icons/cc_by_nc_nd_compact.png
@@ -7,16 +7,16 @@ img/icons/cc_by_nc_sa.png
 img/icons/favicon.ico
 img/icons/icon-bars.svg
 img/icons/icon-delete.svg
-img/icons/logo-shadow_light-120.png
-img/icons/logo-shadow_light-128.png
-img/icons/logo-shadow_light-16.png
-img/icons/logo-shadow_light-256.png
-img/icons/logo-shadow_light-32.png
-img/icons/logo-shadow_light-48.png
-img/icons/logo-shadow_light-512.png
-img/icons/logo-shadow_light-60.png
-img/icons/logo-shadow_light-64.png
-img/icons/logo-shadow_light-90.png
+img/icons/logo16.png
+img/icons/logo32.png
+img/icons/logo48.png
+img/icons/logo60.png
+img/icons/logo64.png
+img/icons/logo90.png
+img/icons/logo120.png
+img/icons/logo128.png
+img/icons/logo256.png
+img/icons/logo512.png
 img/background.jpg
 img/board.jpg
 img/dark_normal.png

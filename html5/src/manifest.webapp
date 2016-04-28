@@ -1,18 +1,18 @@
 {
-  "version": "0.2",
+  "version": "0.3",
   "name": "Mondrago",
   "description": "Mondrago - a game for everyone",
   "launch_path": "/index.html",
   "icons": {
-    "16": "/img/icons/logo-shadow_light-16.png",
-    "32": "/img/icons/logo-shadow_light-32.png",
-    "48": "/img/icons/logo-shadow_light-48.png",
-    "60": "/img/icons/logo-shadow_light-60.png",
-    "64": "/img/icons/logo-shadow_light-64.png",
-    "90": "/img/icons/logo-shadow_light-90.png",
-    "120": "/img/icons/logo-shadow_light-120.png",
-    "128": "/img/icons/logo-shadow_light-128.png",
-    "256": "/img/icons/logo-shadow_light-256.png"
+    "16": "/img/icons/logo16.png",
+    "32": "/img/icons/logo32.png",
+    "48": "/img/icons/logo48.png",
+    "60": "/img/icons/logo60.png",
+    "64": "/img/icons/logo64.png",
+    "90": "/img/icons/logo90.png",
+    "120": "/img/icons/logo120.png",
+    "128": "/img/icons/logo128.png",
+    "256": "/img/icons/logo256.png"
   },
   "developer": {
     "name": "Oliver Merkel",
