@@ -41,7 +41,7 @@ The objective of a Mondrago game in more detail will explain the differences on 
   <tr><td>Light straight small square wins.</td></tr>
 </table>
 
-If edges of the winning square run in exact parallel towards the
+If edges of the winning square run exactly parallel towards the
 board edges the winning square is called a <em>straight Mondrago</em>.
 There are four different sizes of <em>straight Mondrago</em> winning squares.
 Here the light pawns form a winning three by three sized Mondrago.
