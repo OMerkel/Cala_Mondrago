@@ -87,11 +87,11 @@ Links
 
 The non electronical Mondrago board game is originally created and published by Adrian Schacker in 1992. See the Mondrago community website for the original rules in text format translated into various languages.
 
-* [Cala Mondrago for HTML5/Javascript Web Site](https://github.com/OMerkel/Cala_Mondrago)
+* [Cala Mondrago for various devices and operating systems Web Site](https://github.com/OMerkel/Cala_Mondrago)
 * [Mondrago at Firefox Marketplace](https://marketplace.firefox.com/app/mondrago/)
 * [Mondrago at BoardGameGeek](http://boardgamegeek.com/boardgame/111396/mondrago)
 * [Mondrago at VideoGameGeek](http://videogamegeek.com/videogame/137897/mondrago)
-* [Cala Mondrago for Android Web Site](http://sourceforge.net/p/calamondrago)
+* Yet another older [Cala Mondrago for Android Web Site](http://sourceforge.net/p/calamondrago)
 * [Mondrago community website](http://mondrago.net/)
 
 Contributors / Authors
