@@ -85,7 +85,7 @@ In case of questions or if you simply want to be updated on further research and
 Links
 -----
 
-The non electronical Mondrago board game is originally created and published by Adrian Schacker in 1992. See the Mondrago community website for the original rules in text format translated into various languages.
+The non electrical Mondrago board game is originally created and published by Adrian Schacker in 1992. See the Mondrago community website for the original rules in text format translated into various languages.
 
 * [Cala Mondrago for various devices and operating systems Web Site](https://github.com/OMerkel/Cala_Mondrago)
 * [Mondrago at Firefox Marketplace](https://marketplace.firefox.com/app/mondrago/)
