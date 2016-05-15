@@ -266,4 +266,5 @@ function animateMove( pawn, targetX, targetY ) {
 
 function newGame() {
   hmi.restart();
+  $( '#left-panel' ).panel( 'close' );
 }
