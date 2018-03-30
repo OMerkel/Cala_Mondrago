@@ -2,7 +2,6 @@
 =============
 
 * _Start an online_ __Mondrago__ _session on_ http://omerkel.github.io/Cala_Mondrago/html5/src
-* <em>Also published in</em> <a href="https://marketplace.firefox.com/app/mondrago"><img align="top" width="150px" src="res/marketplace_logo.png" /></a>
 * <em>Android APK available for install</em> <img align="top" width="32" src="res/android.gif" /> https://github.com/OMerkel/Cala_Mondrago/releases/tag/release_0.3
     * requires minimum Android 4.4.2 (API-19)
 * <em>Runs in various browsers on</em>
